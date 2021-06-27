@@ -1,0 +1,6 @@
+{
+    "git.ignoreLimitWarning": true,
+    "python.formatting.provider": "black",
+    "workbench.colorTheme": "Monokai",
+    "editor.formatOnSave": true
+}
